@@ -1,0 +1,70 @@
+!! Font
+*.font: FiraCode Nerd Font Mono:pixelsize=16:antialias=true:autohint=true
+
+! Dracula Xresources palette
+!*.foreground: #F8F8F2
+!*.background: #282A36
+!*.color0:     #21222c
+!*.color8:     #6272a4
+!*.color1:     #FF5555
+!*.color9:     #FF6E6e
+!*.color2:     #50FA7B
+!*.color10:    #69ff94
+!*.color3:     #F1FA8C
+!*.color11:    #ffffa5
+!*.color4:     #BD93F9
+!*.color12:    #d6acff
+!*.color5:     #FF79C6
+!*.color13:    #FF92df
+!*.color6:     #8BE9FD
+!*.color14:    #a4ffff
+!*.color7:     #f8f8f2
+!*.color15:    #ffffff
+
+!*.color64:    #BD93F9
+
+!*.color256:   #282A36
+!*.color257:   #44475a
+!*.color258:   #cccccc
+
+!! Gruvbox Xresources palette
+
+dwm.normbordercolor: #a89984
+dwm.normbgcolor: #282828
+dwm.normfgcolor: #a89984
+dwm.selbordercolor: #d79921
+dwm.selbgcolor: #d79921
+dwm.selfgcolor: #282828
+
+
+dmenu.font : FiraCode Nerd Font Mono:size=12
+dmenu.background : #282828
+dmenu.foreground : #a89984
+dmenu.selbackground : #d79921
+dmenu.selforeground : #282828
+
+*.foreground: #a89984
+*.background: #282828
+!!hard: #1d2021 normal: #282828 soft: #32302f
+*.color0:     #504945
+*.color8:     #928374
+*.color1:     #cc241d
+*.color9:     #fb4934
+*.color2:     #98971a
+*.color10:    #b8bb26
+*.color3:     #d79921
+*.color11:    #fabd2f
+*.color4:     #458588
+*.color12:    #83a598
+*.color5:     #b16286
+*.color13:    #d3869b
+*.color6:     #689d6a
+*.color14:    #8ec07c
+*.color7:     #a89984
+*.color15:    #ebdbb2
+
+*.color64:    #d79921
+
+*.color256:   #282828
+*.color257:   #928374
+*.color258:   #ebdbb2
